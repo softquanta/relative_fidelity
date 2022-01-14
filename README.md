@@ -1,4 +1,5 @@
-Code for the paper: "Bounding the benefit of adaptivity in quantum metrology using the relative fidelity" by Jason L. Pereira, Leonardo Banchi, and Stefano Pirandola
+Code for the paper: "Bounding the benefit of adaptivity in quantum metrology using the relative fidelity" by Jason L. Pereira, Leonardo Banchi, and Stefano Pirandola.
+Publication details: Phys. Rev. Lett. 127, 150501 (2021). See also https://arxiv.org/abs/2104.11292
 
 "non_concavity_relative_fidelity.m" is a Matlab file that demonstrates the non-concavity of relative fidelity.
 
